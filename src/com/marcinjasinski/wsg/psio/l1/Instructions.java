@@ -37,6 +37,11 @@ public class Instructions implements Serializable {
         System.out.println();
 
         /*
+        operator ?:
+         */
+        System.out.println(true ? "True" : "False");
+
+        /*
         pętal for
         for (poczatek; warunek_logiczny; wyrazenie_petli) {
             // blok operacji
