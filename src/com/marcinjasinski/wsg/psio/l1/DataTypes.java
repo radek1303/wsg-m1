@@ -13,6 +13,9 @@ public class DataTypes implements Serializable {
 
     public static void main(String[] args) {
 
+        /*
+        pakiety - strukturyzacja, struktura katalogow dla pakietu
+         */
         // typy prymitywne
         byte b = 2; // 8 bitow
         //Byte
