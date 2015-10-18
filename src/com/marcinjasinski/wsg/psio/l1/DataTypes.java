@@ -32,6 +32,8 @@ public class DataTypes implements Serializable {
         boolean bool = true;
         //Boolean
         //Void
+        char cc = 'A'; // 16 bitów - unicode
+        //Character
 
         // deklaracja
         int c;
