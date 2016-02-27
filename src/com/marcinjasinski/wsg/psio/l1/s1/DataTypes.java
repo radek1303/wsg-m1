@@ -1,4 +1,4 @@
-package com.marcinjasinski.wsg.psio.l1;
+package com.marcinjasinski.wsg.psio.l1.s1;
 
 import java.io.Serializable;
 import java.util.Arrays;

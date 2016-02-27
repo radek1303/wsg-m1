@@ -1,4 +1,4 @@
-package com.marcinjasinski.wsg.psio.l1;
+package com.marcinjasinski.wsg.psio.l1.s1;
 
 /**
  * Class Task1
