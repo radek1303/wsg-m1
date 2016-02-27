@@ -1,4 +1,4 @@
-package com.marcinjasinski.wsg.psio.l2;
+package com.marcinjasinski.wsg.psio.l2.s1;
 
 public class Main {
 

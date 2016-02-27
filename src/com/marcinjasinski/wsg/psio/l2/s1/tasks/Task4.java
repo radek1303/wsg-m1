@@ -1,4 +1,4 @@
-package com.marcinjasinski.wsg.psio.l2.tasks;
+package com.marcinjasinski.wsg.psio.l2.s1.tasks;
 
 import java.io.Serializable;
 import java.util.Random;
