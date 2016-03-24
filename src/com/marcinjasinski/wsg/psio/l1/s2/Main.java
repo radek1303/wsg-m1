@@ -9,6 +9,8 @@ import java.io.Serializable;
  */
 public class Main implements Serializable {
 
+    private static final long serialVersionUID = 6057451236661269110L;
+
     public static void main(String[] args) {
         final Test test = new Test(2, 3, 2);
 

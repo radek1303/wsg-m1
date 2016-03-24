@@ -9,6 +9,7 @@ import java.io.Serializable;
  */
 public class Pozycja implements Serializable {
 
+    private static final long serialVersionUID = -2081662915954457110L;
     private String nazwaTowaru;
     private int ileSztuk;
     private double cena;

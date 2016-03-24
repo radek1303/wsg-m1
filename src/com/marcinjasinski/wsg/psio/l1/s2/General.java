@@ -9,6 +9,8 @@ import java.io.Serializable;
  */
 public class General implements Serializable {
 
+    private static final long serialVersionUID = 6034324628269324922L;
+
     /*
         1.  klasy i obiekty - setter, getter, hermetyzacja
         2.  modyfikatory dostępu, tworzenie instancji klas

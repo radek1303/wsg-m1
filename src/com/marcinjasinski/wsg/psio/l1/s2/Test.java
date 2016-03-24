@@ -9,6 +9,7 @@ import java.io.Serializable;
  */
 public class Test implements Serializable {
 
+    private static final long serialVersionUID = 7037566104603337389L;
     public int e;
     protected int g;
     int f;
