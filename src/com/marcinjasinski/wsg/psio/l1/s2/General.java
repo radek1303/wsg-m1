@@ -18,12 +18,12 @@ public class General implements Serializable {
         4.  konstruktory (destruktory?), bloki inicjujące, static {}
         5.  słowo kluczowe this
         6.  uzyskanie dostępu do pól i metod
-        7.  przeciążanie, a nadpisywanie
-        8.  zmienna lista argumentów
+        7.  zmienna lista argumentów
+        8.  metody statyczne, pola statyczne, inicjalizatory, stałe statyczne
         9.  dziedziczenie, superklasy i podklasy
-        10. interfejsy oraz wyliczenia
-        11. polimorfizm
-        12. metody statyczne, pola statyczne, inicjalizatory, stałe statyczne
+        10. przeciążanie, a nadpisywanie
+        11. interfejsy oraz wyliczenia
+        12. polimorfizm
      */
     public static void main(String[] args) {
         System.out.println("Hello world!");
